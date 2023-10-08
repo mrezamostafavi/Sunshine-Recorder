@@ -4,7 +4,7 @@
 This repository contains the design and implementation of a Sunshine Recorder. In this project, we use C++ along with an Arduino Pro Mini, a real-time clock module, an SD card module, and photoresistors to record and analyze the amount and pattern of sunshine throughout the day. This project is a practical application related to my bachelor's thesis.
 
 ## Bachelor's Thesis
-You can access my full bachelor's thesis, which provides in-depth details about the project's goals, methodology, and findings [here](Bachelor's-thesis-Mostafavi.pdf).
+You can access my full bachelor's thesis, which provides in-depth details about the project's goals, methodology, and findings [here](Bachelor's-thesis-Mostafavi.pdf) (in Persian).
 
 ## Components
 - **Arduino Pro Mini**: The core microcontroller used for data acquisition and control.

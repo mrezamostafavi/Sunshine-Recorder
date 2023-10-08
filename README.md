@@ -30,6 +30,9 @@ To replicate this project, follow these steps:
 
 4. Retrieve the recorded data from the SD card for analysis.
 
+## Result
+![result](result.png)
+
 ## Data Analysis
 The recorded data can be further analyzed using data processing tools and techniques. You can refer to my bachelor's thesis for insights into data analysis methods and results.
 

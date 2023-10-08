@@ -39,4 +39,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 If you have any questions or need further information, feel free to contact me at [mrezamostafavi98@gmail.com](mailto:mrezamostafavi98@gmail.com).
 
-Happy recording!

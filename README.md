@@ -12,6 +12,9 @@ You can access my full bachelor's thesis, which provides in-depth details about 
 - **SD Card Module**: Used to store recorded data in a structured format.
 - **Photoresistors**: Measure light intensity and are crucial for sunshine detection.
 
+## Body components of the designed system
+![componenets](components.png)
+
 ## Supervisor
 I conducted this project under the guidance of Dr. Mehrdad Babazadeh, my supervisor at the University of Zanjan. Dr. Babazadeh's expertise and support were instrumental in the successful completion of this project.
 
@@ -33,6 +36,6 @@ The recorded data can be further analyzed using data processing tools and techni
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-If you have any questions or need further information, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need further information, feel free to contact me at [mrezamostafavi98@gmail.com](mailto:mrezamostafavi98@gmail.com).
 
 Happy recording!

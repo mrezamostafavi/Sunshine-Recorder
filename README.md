@@ -14,6 +14,7 @@ You can access my full bachelor's thesis, which provides in-depth details about 
 
 ## Body components of the designed system
 ![componenets](components.png)
+![componenets2](components2.png)
 
 ## Supervisor
 I conducted this project under the guidance of Dr. Mehrdad Babazadeh, my supervisor at the University of Zanjan. Dr. Babazadeh's expertise and support were instrumental in the successful completion of this project.

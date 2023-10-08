@@ -20,7 +20,7 @@ To replicate this project, follow these steps:
 
 1. Set up your Arduino Pro Mini and wire the components as described in the [wiring_diagram.png](wiring_diagram.png) diagram.
 
-2. Upload the provided C++ code [sunshine_recorder.ino](sunshine_recorder.ino) to your Arduino Pro Mini.
+2. Upload the provided C++ code [final.ino](final.ino) to your Arduino Pro Mini.
 
 3. Power on the recorder and allow it to record sunshine data throughout the day.
 
